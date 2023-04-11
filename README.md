@@ -20,7 +20,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="" width="40" height="40">&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="" width="40" height="40">&nbsp;
+    <img src="https://cdn.icon-icons.com/icons2/936/PNG/512/github-logo_icon-icons.com_73546.png" alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="" width="40" height="40">&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" alt="" width="40" height="40">&nbsp;
