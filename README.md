@@ -2,6 +2,14 @@
     <h1 align="center"> Hi 👋, I'm Yair Hernández</h1>
 </div>
 
+<div align="left">
+    <p>
+        Desarrollador Web
+        Php, Node.js, MySQL,JavasSript
+    </p>
+</div>
+
+<br>
 
 <div align="left">
     <h3>Lenguages and Tools: </h3>
@@ -23,9 +31,4 @@
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/postman_macos_bigsur_icon_189815.png" alt="" width="40" height="40">&nbsp;
 </div>
 
-<div align="left">
-    <p>
-        Desarrollador Web
-        Php, Node.js, MySQL,JavasSript
-    </p>
-</div>
+
