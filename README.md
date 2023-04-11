@@ -24,8 +24,8 @@
 </div>
 
 <div align="left">
-    <pre>
+    <p>
         Desarrollador Web
         Php, Node.js, MySQL,JavasSript
-    </pre>
+    </p>
 </div>
