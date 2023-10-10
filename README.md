@@ -4,7 +4,7 @@
 
 <div align="left">
     <p>
-        Desarrollador Web | Php, Node.js, MySQL, JavasSript
+        Desarrollador Web | Php, Node.js, MySQL, JavasSript, NestJs
     </p>
 </div>
 
