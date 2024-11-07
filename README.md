@@ -4,7 +4,7 @@
 
 <div align="left">
     <p>
-        Desarrollador Full Stack | Php, Node.js, MySQL, JavasSript, NestJs
+        Desarrollador Full Stack | Php, Node.js, MySQL, JavasSript, NestJs, Flutter, React Js, 
     </p>
 </div>
 
