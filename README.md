@@ -57,3 +57,9 @@ Me apasiona transformar ideas en código, creando arquitecturas sólidas y escal
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YairHernandezPech&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&date_format=j%20M%5B%20Y%5D" alt="Estadísticas de Yair" />
 </div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YairHernandezPech&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="GitHub Streak" />
+  <br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YairHernandezPech&layout=compact&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777" alt="Lenguajes más usados" />
+</div>
