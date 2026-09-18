@@ -16,7 +16,7 @@ Me apasiona transformar ideas en código, creando arquitecturas sólidas y escal
 - 🏢 Actualmente lidero mi propia marca de desarrollo, **edyairdev**, donde diseño y construyo soluciones de software a la medida para diversos clientes.
 - 🚀 Mi proyecto más grande es **SEYAVE ERP**, una plataforma de gestión empresarial diseñada para la operación y la normativa fiscal.
 - 📱 Especializado en desarrollo móvil con **Flutter**, backend robusto con **PHP/Laravel** y **Node.js/NestJS**, y frontend con **React**.
-- 📫 Puedes contactarme en: **[yairhernandezpech19@gmail.com]** o conocer más de mi trabajo en mi [Portafolio](https://edyairdev.onrender.com/).
+- 📫 Puedes contactarme en: **yairhernandezpech19@gmail.com** o conocer más de mi trabajo en mi [Portafolio](https://edyairdev.onrender.com/).
 
 <br>
 
