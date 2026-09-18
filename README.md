@@ -55,27 +55,5 @@ Me apasiona transformar ideas en código, creando arquitecturas sólidas y escal
 ### 📊 Estadísticas y Contacto
 
 <div align="center">
-  <!-- Gráfica de Racha (La que sí te funcionó) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YairHernandezPech&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Yair" />
-  
-  <br><br>
-  
-  <!-- Contador de Visitas (Servidor Komarev, súper estable) -->
-  <img src="https://komarev.com/ghpvc/?username=YairHernandezPech&color=2196F3&style=for-the-badge&label=VISITAS+A+MI+PERFIL" alt="Contador de Visitas" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YairHernandezPech&theme=transparent&hide_border=true&title_color=2196F3&text_color=777777&date_format=j%20M%5B%20Y%5D" alt="Estadísticas de Yair" />
 </div>
-
-<br>
-
-<div align="center">
-  <!-- Botones de contacto con Shields.io (Nunca se caen) -->
-  <a href="mailto:TU_CORREO@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/TU_USUARIO">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="LINK_A_TU_PORTAFOLIO">
-    <img src="https://img.shields.io/badge/Portafolio-2196F3?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio" />
-  </a>
-</div>
-
